@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Matthew Greisen</h1>
-<h3 align="center">Python Developer / Data Scientist in Austin, Texas</h3>
+<h1 align="center">Matthew D. Greisen</h1>
+<h3 align="center">Austin, Texas | (916) 548-0101 | matthew.d.greisen@gmail.com | </h3>
 
-- 📫 How to reach me **Matthew.d.greisen@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/greisen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="greisen" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/greisen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="greisen" height="30" width="40" /></a>
